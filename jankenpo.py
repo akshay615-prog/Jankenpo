@@ -1,5 +1,4 @@
 import random
-
 options = ["stone", "paper", "scissors"]
 
 def game():
